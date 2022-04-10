@@ -1,0 +1,1 @@
+implements the simple counter project from https://www.vanillajavascriptprojects.com/ wthout looking at the code or watching the video
